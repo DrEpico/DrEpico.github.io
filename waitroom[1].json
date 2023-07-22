@@ -1,0 +1,29 @@
+{
+
+  "contact": "oshi no ko/senko",
+
+  "templates": [
+
+    {
+
+      "name": "Airuby and cats",
+
+      "sources": [
+
+        "https://media.discordapp.net/attachments/960026923814240338/1132372227178897488/image.png"
+
+      ],
+
+      "x": -705,
+
+      "y": -139 
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
