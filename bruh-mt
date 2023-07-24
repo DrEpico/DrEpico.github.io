@@ -1,0 +1,15 @@
+{
+  "contact": ".gg/mushokutensei",
+  "templates": [
+    {
+      "name": "French Fitz",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/960026923814240338/1133038484655976480/image.png"
+      ],
+      "x": 2020,
+      "y": 250
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
